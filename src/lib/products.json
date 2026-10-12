@@ -1,0 +1,212 @@
+[
+  {
+    "id": "gel-kayano",
+    "name": "Gel-Kayano 14",
+    "brand": "ASICS",
+    "model": "Gel-Kayano",
+    "category": "runners",
+    "price": 64,
+    "condition": "Like new",
+    "sizes": [
+      10
+    ],
+    "colors": [
+      "Silver",
+      "Blue"
+    ],
+    "image": "/assets/gel-kayano.jpg",
+    "description": "The Y2K runner that never left. A carefully considered pair with a fresh second chapter.",
+    "stock": 1
+  },
+  {
+    "id": "samba",
+    "name": "Samba OG",
+    "brand": "adidas",
+    "model": "Samba",
+    "category": "sneakers",
+    "price": 52,
+    "condition": "Good",
+    "sizes": [
+      9
+    ],
+    "colors": [
+      "White",
+      "Gum"
+    ],
+    "image": "/assets/samba.jpg",
+    "description": "A low-profile classic, made for the everyday. Light wear and plenty of life left.",
+    "stock": 1
+  },
+  {
+    "id": "air-max",
+    "name": "Air Max 90 OG",
+    "brand": "Nike",
+    "model": "Air Max 90",
+    "category": "runners",
+    "price": 75,
+    "condition": "Good",
+    "sizes": [
+      9.5
+    ],
+    "colors": [
+      "Tan",
+      "White"
+    ],
+    "image": "/assets/air-max.jpg",
+    "description": "An everyday icon with a comfortable stance. Clean lines and a little lived-in character.",
+    "stock": 1
+  },
+  {
+    "id": "superstar",
+    "name": "Superstar 80s",
+    "brand": "adidas",
+    "model": "Superstar",
+    "category": "sneakers",
+    "price": 45,
+    "condition": "Used",
+    "sizes": [
+      10
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "image": "/assets/superstar.jpg",
+    "description": "Old-school shape, new possibilities. Honest signs of wear are part of the story.",
+    "stock": 1
+  },
+  {
+    "id": "cortez",
+    "name": "Cortez \u201972 Reissue",
+    "brand": "Nike",
+    "model": "Classic Cortez",
+    "category": "sneakers",
+    "price": 58,
+    "condition": "Like new",
+    "sizes": [
+      9,
+      6.5
+    ],
+    "colors": [
+      "Red",
+      "White"
+    ],
+    "image": "/assets/cortez.jpg",
+    "description": "A timeless track-inspired silhouette. A lightweight classic for another trip around the city.",
+    "stock": 1
+  },
+  {
+    "id": "killshot",
+    "name": "Killshot 2",
+    "brand": "Nike",
+    "model": "Killshot",
+    "category": "sneakers",
+    "price": 48,
+    "condition": "Good",
+    "sizes": [
+      8
+    ],
+    "colors": [
+      "Multi",
+      "Cream"
+    ],
+    "image": "/assets/killshot.jpg",
+    "description": "Court-inspired style with a relaxed everyday feel. A colorful find ready for its next outing.",
+    "stock": 2
+  },
+  {
+    "id": "jordan",
+    "name": "Air Jordan 1 Mid",
+    "brand": "Jordan",
+    "model": "AJ1 Mid",
+    "category": "basketball",
+    "price": 95,
+    "condition": "Like new",
+    "sizes": [
+      10.5
+    ],
+    "colors": [
+      "Black",
+      "Red"
+    ],
+    "image": "/assets/jordan.jpg",
+    "description": "The familiar high-top silhouette. A bold addition to a carefully collected rotation.",
+    "stock": 2
+  },
+  {
+    "id": "chukka",
+    "name": "Chukka 49 Canvas",
+    "brand": "Clarks",
+    "model": "Desert Boot",
+    "category": "boots",
+    "price": 40,
+    "condition": "Good",
+    "sizes": [
+      9
+    ],
+    "colors": [
+      "Sand",
+      "Cream"
+    ],
+    "image": "/assets/chukka.jpg",
+    "description": "An understated everyday pair. Easy styling, soft tones and a relaxed finish.",
+    "stock": 2
+  },
+  {
+    "id": "chuck",
+    "name": "Chuck 70 Hi",
+    "brand": "Converse",
+    "model": "Chuck 70",
+    "category": "sneakers",
+    "price": 35,
+    "condition": "Used",
+    "sizes": [
+      8.5
+    ],
+    "colors": [
+      "Green",
+      "White"
+    ],
+    "image": "/assets/chuck.jpg",
+    "description": "An easygoing classic with a little patina. There is always room for another everyday favorite.",
+    "stock": 1
+  },
+  {
+    "id": "dunk",
+    "name": "Dunk Low \u201985",
+    "brand": "Nike",
+    "model": "Dunk Low",
+    "category": "basketball",
+    "price": 88,
+    "condition": "Good",
+    "sizes": [
+      11
+    ],
+    "colors": [
+      "White",
+      "Grey"
+    ],
+    "image": "/assets/dunk.jpg",
+    "description": "A clean low-top shape for the everyday rotation. Familiar proportions, another beginning.",
+    "stock": 1
+  },
+  {
+    "id": "vans",
+    "name": "Old Skool Vans",
+    "brand": "Vans",
+    "model": "Old Skool",
+    "category": "skate",
+    "price": 28,
+    "condition": "Used",
+    "sizes": [
+      8
+    ],
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "image": "/assets/vans.jpg",
+    "description": "The skate-inspired staple. A relaxed pair with a story already started.",
+    "stock": 1
+  }
+]
